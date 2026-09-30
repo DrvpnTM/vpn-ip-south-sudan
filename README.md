@@ -1,18 +1,17 @@
-# VPN IP South Sudan — Dr VPN
+# VPN IP South Sudan — Fast, Secure VPN for South Sudan
 
-**VPN IP South Sudan** is a fast, secure and free VPN for Android. Get a **South Sudan IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP South Sudan** is a free, open-source, ad-free VPN app for Android, built for users in South Sudan. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP South Sudan (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ss_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-south-sudan/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- South Sudan IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN South Sudan, South Sudan VPN, VPN IP South Sudan, South Sudan IP address, free VPN South Sudan, buy VPN South Sudan, fast VPN South Sudan, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN South Sudan, free VPN South Sudan, fast VPN, VPN IP South Sudan, Android VPN, unblock websites South Sudan.</sub>
